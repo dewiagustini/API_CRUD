@@ -98,6 +98,7 @@ class MyProfil extends StatelessWidget {
                                 Text('Nasi Goreng',
                                   style: TextStyle
                                     (color: Colors.black,
+                                    fontSize: 10,
                                       fontWeight: FontWeight.bold
                                   ), )
                               ],
