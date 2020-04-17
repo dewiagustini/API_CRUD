@@ -1,6 +1,6 @@
 import 'src/Kasir.dart';
 import 'src/Menu.dart';
-import 'src/about_me.dart';
+import 'src/lib/about_me.dart';
 import 'src/Bayar.dart';
 import 'package:flutter/material.dart';
 
